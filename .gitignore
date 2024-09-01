@@ -1,0 +1,9 @@
+# macOS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other typical files you may want to ignore
+__pycache__/
+*.pyc
